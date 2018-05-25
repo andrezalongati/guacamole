@@ -1,0 +1,3 @@
+I am Andreza.
+I am from Brazil.
+I am learning python.
